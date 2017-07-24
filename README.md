@@ -1,0 +1,2 @@
+# kuromoji_test
+javaの形態素解析ライブラリkuromojiのサンプル
